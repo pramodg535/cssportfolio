@@ -1,0 +1,36 @@
+.title{
+    height: 600px;
+    margin-top: 0;
+    margin-left: 0;
+    background-image:url(bluesky.jpeg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    background-position: center;
+ 
+  }
+.tagname{
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+  
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
+body{
+    margin: 0 0 0 0;
+}
+
+.new{
+    display: grid;
+    
+}
+
+.new >div{
+    height: max-content;
+    width: max-content;
+}
+
